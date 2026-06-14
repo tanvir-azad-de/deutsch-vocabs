@@ -1,0 +1,436 @@
+[
+    {
+        "englishWord": "to learn",
+        "englishSentence": "Tim also learns German.",
+        "germanWord": "lernen",
+        "germanSentence": "Tim lernt auch Deutsch.",
+        "wordType": "Verb (Akk) | Separable: No | Präteritum: lernte | Perfekt: hat gelernt"
+    },
+    {
+        "englishWord": "the park, -s",
+        "englishSentence": "Tim and Lara study in the park.",
+        "germanWord": "der Park, -s",
+        "germanSentence": "Tim und Lara lernen im Park.",
+        "wordType": "Noun (Masculine)"
+    },
+    {
+        "englishWord": "the break, -s",
+        "englishSentence": "Tim and Lara have a break.",
+        "germanWord": "die Pause, -n",
+        "germanSentence": "Tim und Lara haben Pause.",
+        "wordType": "Noun (Feminine)"
+    },
+    {
+        "englishWord": "the family, -ies",
+        "englishSentence": "That is my family.",
+        "germanWord": "die Familie, -n",
+        "germanSentence": "Das ist meine Familie.",
+        "wordType": "Noun (Feminine)"
+    },
+    {
+        "englishWord": "the father, -s",
+        "englishSentence": "That is Lara's father.",
+        "germanWord": "der Vater, -¨",
+        "germanSentence": "Das ist Laras Vater.",
+        "wordType": "Noun (Masculine)"
+    },
+    {
+        "englishWord": "the grandparents",
+        "englishSentence": "Those are Lara's grandparents.",
+        "germanWord": "die Großeltern (Pl.)",
+        "germanSentence": "Das sind Laras Großeltern.",
+        "wordType": "Noun (Plural)"
+    },
+    {
+        "englishWord": "the mother, -s",
+        "englishSentence": "That is Lara's mother.",
+        "germanWord": "die Mutter, -¨",
+        "germanSentence": "Das ist Laras Mutter.",
+        "wordType": "Noun (Feminine)"
+    },
+    {
+        "englishWord": "the parents",
+        "englishSentence": "Those are Tim's parents.",
+        "germanWord": "die Eltern (Pl.)",
+        "germanSentence": "Das sind Tims Eltern.",
+        "wordType": "Noun (Plural)"
+    },
+    {
+        "englishWord": "the brother, -s",
+        "englishSentence": "That is Tim's brother.",
+        "germanWord": "der Bruder, -¨",
+        "germanSentence": "Das ist Tims Bruder.",
+        "wordType": "Noun (Masculine)"
+    },
+    {
+        "englishWord": "the siblings",
+        "englishSentence": "Lara has siblings.",
+        "germanWord": "die Geschwister (Pl.)",
+        "germanSentence": "Lara hat Geschwister.",
+        "wordType": "Noun (Plural)"
+    },
+    {
+        "englishWord": "the year, -s",
+        "englishSentence": "Lara is twenty years old.",
+        "germanWord": "das Jahr, -e",
+        "germanSentence": "Lara ist zwanzig Jahre alt.",
+        "wordType": "Noun (Neuter)"
+    },
+    {
+        "englishWord": "to live",
+        "englishSentence": "Lara's father lives in Poznań.",
+        "germanWord": "leben",
+        "germanSentence": "Laras Vater lebt in Poznań.",
+        "wordType": "Verb (Nom) | Separable: No | Präteritum: lebte | Perfekt: hat gelebt"
+    },
+    {
+        "englishWord": "in",
+        "englishSentence": "Lara's father lives in Poznań.",
+        "germanWord": "in",
+        "germanSentence": "Laras Vater lebt in Poznań.",
+        "wordType": "Preposition"
+    },
+    {
+        "englishWord": "good / well",
+        "englishSentence": "How are you? - Good, thank you.",
+        "germanWord": "gut",
+        "germanSentence": "Wie geht's? - Gut, danke.",
+        "wordType": "Adjective / Adverb"
+    },
+    {
+        "englishWord": "super / great",
+        "englishSentence": "How are you? - Super.",
+        "germanWord": "super",
+        "germanSentence": "Wie geht's? - Super.",
+        "wordType": "Adjective / Adverb"
+    },
+    {
+        "englishWord": "oh well / well",
+        "englishSentence": "How are you? - Well, it's okay.",
+        "germanWord": "na ja",
+        "germanSentence": "Wie geht's? - Na ja, es geht.",
+        "wordType": "Phrase / Interjection"
+    },
+    {
+        "englishWord": "oh",
+        "englishSentence": "How are you? - Oh, not so good.",
+        "germanWord": "ach",
+        "germanSentence": "Wie geht's? - Ach, nicht so gut.",
+        "wordType": "Phrase / Interjection"
+    },
+    {
+        "englishWord": "so",
+        "englishSentence": "How are you? - Not so good.",
+        "germanWord": "so",
+        "germanSentence": "Wie geht's? - Nicht so gut.",
+        "wordType": "Adverb"
+    },
+    {
+        "englishWord": "very",
+        "englishSentence": "How are you? - Thank you, very well.",
+        "germanWord": "sehr",
+        "germanSentence": "Wie geht's? - Danke, sehr gut.",
+        "wordType": "Adverb"
+    },
+    {
+        "englishWord": "the grandson, -s",
+        "englishSentence": "This is the grandson.",
+        "germanWord": "der Enkel, -",
+        "germanSentence": "Das ist der Enkel.",
+        "wordType": "Noun (Masculine)"
+    },
+    {
+        "englishWord": "the granddaughter, -s",
+        "englishSentence": "Lili is Walter's granddaughter.",
+        "germanWord": "die Enkelin, -nen",
+        "germanSentence": "Lili ist Walters Enkelin.",
+        "wordType": "Noun (Feminine)"
+    },
+    {
+        "englishWord": "the daughter, -s",
+        "englishSentence": "Sofia is Walter's daughter.",
+        "germanWord": "die Tochter, -¨",
+        "germanSentence": "Sofia ist Walters Tochter.",
+        "wordType": "Noun (Feminine)"
+    },
+    {
+        "englishWord": "the son, -s",
+        "englishSentence": "Tobias is Walter's son.",
+        "germanWord": "der Sohn, -¨e",
+        "germanSentence": "Tobias ist Walters Sohn.",
+        "wordType": "Noun (Masculine)"
+    },
+    {
+        "englishWord": "the sister, -s",
+        "englishSentence": "Sofia is Tobias's sister.",
+        "germanWord": "die Schwester, -n",
+        "germanSentence": "Sofia ist Tobias Schwester.",
+        "wordType": "Noun (Feminine)"
+    },
+    {
+        "englishWord": "the grandma, -s",
+        "englishSentence": "Luise is Lili's grandma.",
+        "germanWord": "die Oma, -s",
+        "germanSentence": "Luise ist Lilis Oma.",
+        "wordType": "Noun (Feminine)"
+    },
+    {
+        "englishWord": "the man / the husband, men / husbands",
+        "englishSentence": "Walter is Luise's husband.",
+        "germanWord": "der Mann, -¨er",
+        "germanSentence": "Walter ist Luises Mann.",
+        "wordType": "Noun (Masculine)"
+    },
+    {
+        "englishWord": "the grandpa, -s",
+        "englishSentence": "Walter is Lili's grandpa.",
+        "germanWord": "der Opa, -s",
+        "germanSentence": "Walter ist Lilis Opa.",
+        "wordType": "Noun (Masculine)"
+    },
+    {
+        "englishWord": "your",
+        "englishSentence": "Who is that? Your brother?",
+        "germanWord": "dein-",
+        "germanSentence": "Wer ist das? Dein Bruder?",
+        "wordType": "Pronoun / Possessive Determiner"
+    },
+    {
+        "englishWord": "my",
+        "englishSentence": "That is my father.",
+        "germanWord": "mein-",
+        "germanSentence": "Das ist mein Vater.",
+        "wordType": "Pronoun / Possessive Determiner"
+    },
+    {
+        "englishWord": "your (formal)",
+        "englishSentence": "Lili is your daughter.",
+        "germanWord": "Ihr-",
+        "germanSentence": "Lili ist Ihre Tochter.",
+        "wordType": "Pronoun / Possessive Determiner"
+    },
+    {
+        "englishWord": "the husband, -s / the wife, wives",
+        "englishSentence": "María is your wife.",
+        "germanWord": "der Ehemann, -¨er / die Ehefrau, -en",
+        "germanSentence": "María ist deine Ehefrau.",
+        "wordType": "Noun (Masculine / Feminine)"
+    },
+    {
+        "englishWord": "wrong / false",
+        "englishSentence": "María is your wife. - No, wrong.",
+        "germanWord": "falsch",
+        "germanSentence": "María ist deine Ehefrau. - Nein, falsch.",
+        "wordType": "Adjective / Adverb"
+    },
+    {
+        "englishWord": "she",
+        "englishSentence": "That is Lara. She comes from Poland.",
+        "germanWord": "sie (Singular)",
+        "germanSentence": "Das ist Lara. Sie kommt aus Polen.",
+        "wordType": "Pronoun"
+    },
+    {
+        "englishWord": "together",
+        "englishSentence": "Lara's parents do not live together.",
+        "germanWord": "zusammen",
+        "germanSentence": "Laras Eltern leben nicht zusammen.",
+        "wordType": "Adverb"
+    },
+    {
+        "englishWord": "they",
+        "englishSentence": "Those are Lara's parents. They are divorced.",
+        "germanWord": "sie (Plural)",
+        "germanSentence": "Das sind Laras Eltern. Sie sind geschieden.",
+        "wordType": "Pronoun"
+    },
+    {
+        "englishWord": "divorced",
+        "englishSentence": "They are divorced.",
+        "germanWord": "geschieden",
+        "germanSentence": "Sie sind geschieden.",
+        "wordType": "Adjective / Past Participle"
+    },
+    {
+        "englishWord": "he",
+        "englishSentence": "That is Tim. He comes from Canada.",
+        "germanWord": "er",
+        "germanSentence": "Das ist Tim. Er kommt aus Kanada.",
+        "wordType": "Pronoun"
+    },
+    {
+        "englishWord": "to live / to reside",
+        "englishSentence": "Tim lives in Munich now.",
+        "germanWord": "wohnen",
+        "germanSentence": "Tim wohnt jetzt in München.",
+        "wordType": "Verb (Nom) | Separable: No | Präteritum: wohnte | Perfekt: hat gewohnt"
+    },
+    {
+        "englishWord": "now",
+        "englishSentence": "Tim lives in Munich now.",
+        "germanWord": "jetzt",
+        "germanSentence": "Tim wohnt jetzt in München.",
+        "wordType": "Adverb"
+    },
+    {
+        "englishWord": "you (plural)",
+        "englishSentence": "Who are you? - We are Merima and Anisa.",
+        "germanWord": "ihr",
+        "germanSentence": "Wer seid ihr? - Wir sind Merima und Anisa.",
+        "wordType": "Pronoun"
+    },
+    {
+        "englishWord": "we",
+        "englishSentence": "We come from Bosnia.",
+        "germanWord": "wir",
+        "germanSentence": "Wir kommen aus Bosnien.",
+        "wordType": "Pronoun"
+    },
+    {
+        "englishWord": "the number, -s",
+        "englishSentence": "Number: 0, 1, 2,...",
+        "germanWord": "die Zahl, -en",
+        "germanSentence": "Zahl: 0, 1, 2,...",
+        "wordType": "Noun (Feminine)"
+    },
+    {
+        "englishWord": "where",
+        "englishSentence": "Where do you live?",
+        "germanWord": "wo",
+        "germanSentence": "Wo wohnen Sie?",
+        "wordType": "Adverb"
+    },
+    {
+        "englishWord": "born",
+        "englishSentence": "Where were you born?",
+        "germanWord": "geboren",
+        "germanSentence": "Wo sind Sie geboren?",
+        "wordType": "Adjective / Past Participle"
+    },
+    {
+        "englishWord": "the number, -s",
+        "englishSentence": "What is your telephone number?",
+        "germanWord": "die Nummer, -n",
+        "germanSentence": "Wie ist Ihre Telefonnummer?",
+        "wordType": "Noun (Feminine)"
+    },
+    {
+        "englishWord": "married",
+        "englishSentence": "I am married.",
+        "germanWord": "verheiratet",
+        "germanSentence": "Ich bin verheiratet.",
+        "wordType": "Adjective / Past Participle"
+    },
+    {
+        "englishWord": "to have",
+        "englishSentence": "Do you have children?",
+        "germanWord": "haben",
+        "germanSentence": "Haben Sie Kinder?",
+        "wordType": "Verb (Akk) | Separable: No | Präteritum: hatte | Perfekt: hat gehabt"
+    },
+    {
+        "englishWord": "the birthplace, -s",
+        "englishSentence": "Birthplace: Madrid",
+        "germanWord": "der Geburtsort, -e",
+        "germanSentence": "Geburtsort: Madrid",
+        "wordType": "Noun (Masculine)"
+    },
+    {
+        "englishWord": "the place of residence, -s",
+        "englishSentence": "Place of residence: 20249 Hamburg",
+        "germanWord": "der Wohnort, -e",
+        "germanSentence": "Wohnort: 20249 Hamburg",
+        "wordType": "Noun (Masculine)"
+    },
+    {
+        "englishWord": "the marital status",
+        "englishSentence": "Marital status: divorced",
+        "germanWord": "der Familienstand (Sg.)",
+        "germanSentence": "Familienstand: geschieden",
+        "wordType": "Noun (Masculine)"
+    },
+    {
+        "englishWord": "single",
+        "englishSentence": "I am single.",
+        "germanWord": "ledig",
+        "germanSentence": "Ich bin ledig.",
+        "wordType": "Adjective"
+    },
+    {
+        "englishWord": "widowed",
+        "englishSentence": "I am widowed.",
+        "germanWord": "verwitwet",
+        "germanSentence": "Ich bin verwitwet.",
+        "wordType": "Adjective"
+    },
+    {
+        "englishWord": "the age, -s",
+        "englishSentence": "Age: 8 and 5",
+        "germanWord": "das Alter, -",
+        "germanSentence": "Alter: 8 und 5",
+        "wordType": "Noun (Neuter)"
+    },
+    {
+        "englishWord": "the north",
+        "englishSentence": "Hamburg is in the north.",
+        "germanWord": "der Norden (Sg.)",
+        "germanSentence": "Hamburg ist im Norden.",
+        "wordType": "Noun (Masculine)"
+    },
+    {
+        "englishWord": "the east",
+        "englishSentence": "Leipzig is in the east.",
+        "germanWord": "der Osten (Sg.)",
+        "germanSentence": "Leipzig ist im Osten.",
+        "wordType": "Noun (Masculine)"
+    },
+    {
+        "englishWord": "the south",
+        "englishSentence": "Munich is in the south.",
+        "germanWord": "der Süden (Sg.)",
+        "germanSentence": "München ist im Süden.",
+        "wordType": "Noun (Masculine)"
+    },
+    {
+        "englishWord": "the west",
+        "englishSentence": "Cologne is in the west.",
+        "germanWord": "der Westen (Sg.)",
+        "germanSentence": "Köln ist im Westen.",
+        "wordType": "Noun (Masculine)"
+    },
+    {
+        "englishWord": "the capital, -s",
+        "englishSentence": "Berlin is the capital of Germany",
+        "germanWord": "die Hauptstadt, -¨e",
+        "germanSentence": "Berlin ist die Hauptstadt von Deutschland",
+        "wordType": "Noun (Feminine)"
+    },
+    {
+        "englishWord": "south",
+        "englishSentence": "Munich is in southern Germany.",
+        "germanWord": "Süd-",
+        "germanSentence": "München ist in Süddeutschland.",
+        "wordType": "Prefix"
+    },
+    {
+        "englishWord": "north",
+        "englishSentence": "Kiel is in northern Germany.",
+        "germanWord": "Nord-",
+        "germanSentence": "Kiel ist in Norddeutschland.",
+        "wordType": "Prefix"
+    },
+    {
+        "englishWord": "the teacher, -s",
+        "englishSentence": "My father is a teacher.",
+        "germanWord": "der Lehrer, - / die Lehrerin, -nen",
+        "germanSentence": "Mein Vater ist Lehrer.",
+        "wordType": "Noun (Masculine / Feminine)"
+    },
+    {
+        "englishWord": "the German, -s",
+        "englishSentence": "My father is Croatian, my mother is German.",
+        "germanWord": "der/ die Deutsche, -n",
+        "germanSentence": "Mein Vater ist Kroate, meine Mutter ist Deutsche.",
+        "wordType": "Noun (Masculine / Feminine)"
+    }
+]

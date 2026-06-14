@@ -1,0 +1,835 @@
+[
+    {
+        "englishWord": "to look at",
+        "englishSentence": "Look at the photos.",
+        "germanWord": "ansehen",
+        "germanSentence": "Sehen Sie die Fotos an.",
+        "wordType": "Verb (Akk) | Separable: Yes | Präteritum: sah an | Perfekt: hat angesehen"
+    },
+    {
+        "englishWord": "the picture, -s",
+        "englishSentence": "Look at the pictures.",
+        "germanWord": "das Bild, -er",
+        "germanSentence": "Sehen Sie die Bilder an.",
+        "wordType": "Noun (Neuter)"
+    },
+    {
+        "englishWord": "to hear / listen",
+        "englishSentence": "Listen.",
+        "germanWord": "hören",
+        "germanSentence": "Hören Sie.",
+        "wordType": "Verb (Akk) | Separable: No | Präteritum: hörte | Perfekt: hat gehört"
+    },
+    {
+        "englishWord": "once again",
+        "englishSentence": "Listen once again.",
+        "germanWord": "noch einmal",
+        "germanSentence": "Hören Sie noch einmal.",
+        "wordType": "Adverb / Phrase"
+    },
+    {
+        "englishWord": "to check / tick",
+        "englishSentence": "Tick the box.",
+        "germanWord": "ankreuzen",
+        "germanSentence": "Kreuzen Sie an.",
+        "wordType": "Verb (Akk) | Separable: Yes | Präteritum: kreuzte an | Perfekt: hat angekreuzt"
+    },
+    {
+        "englishWord": "to match",
+        "englishSentence": "Match.",
+        "germanWord": "zuordnen",
+        "germanSentence": "Ordnen Sie zu.",
+        "wordType": "Verb (Dat + Akk) | Separable: Yes | Präteritum: ordnete zu | Perfekt: hat zugeordnet"
+    },
+    {
+        "englishWord": "to complete / fill in",
+        "englishSentence": "Fill in.",
+        "germanWord": "ergänzen",
+        "germanSentence": "Ergänzen Sie.",
+        "wordType": "Verb (Akk) | Separable: No | Präteritum: ergänzte | Perfekt: hat ergänzt"
+    },
+    {
+        "englishWord": "to make / do",
+        "englishSentence": "Make a film.",
+        "germanWord": "machen",
+        "germanSentence": "Machen Sie einen Film.",
+        "wordType": "Verb (Akk) | Separable: No | Präteritum: machte | Perfekt: hat gemacht"
+    },
+    {
+        "englishWord": "the course, -s",
+        "englishSentence": "In the course.",
+        "germanWord": "der Kurs, -e",
+        "germanSentence": "Im Kurs.",
+        "wordType": "Noun (Masculine)"
+    },
+    {
+        "englishWord": "to speak",
+        "englishSentence": "Speak in class.",
+        "germanWord": "sprechen",
+        "germanSentence": "Sprechen Sie im Kurs.",
+        "wordType": "Verb | Separable: No | Präteritum: sprach | Perfekt: hat gesprochen"
+    },
+    {
+        "englishWord": "to read",
+        "englishSentence": "Read.",
+        "germanWord": "lesen",
+        "germanSentence": "Lesen Sie.",
+        "wordType": "Verb (Akk) | Separable: No | Präteritum: las | Perfekt: hat gelesen"
+    },
+    {
+        "englishWord": "the conversation, -s",
+        "englishSentence": "Read the conversations.",
+        "germanWord": "das Gespräch, -e",
+        "germanSentence": "Lesen Sie die Gespräche.",
+        "wordType": "Noun (Neuter)"
+    },
+    {
+        "englishWord": "to play / act",
+        "englishSentence": "Act out the conversations in class.",
+        "germanWord": "spielen",
+        "germanSentence": "Spielen Sie die Gespräche im Kurs.",
+        "wordType": "Verb (Akk) | Separable: No | Präteritum: spielte | Perfekt: hat gespielt"
+    },
+    {
+        "englishWord": "to search / look for",
+        "englishSentence": "Search.",
+        "germanWord": "suchen",
+        "germanSentence": "Suchen Sie.",
+        "wordType": "Verb (Akk) | Separable: No | Präteritum: suchte | Perfekt: hat gesucht"
+    },
+    {
+        "englishWord": "to show",
+        "englishSentence": "Show.",
+        "germanWord": "zeigen",
+        "germanSentence": "Zeigen Sie.",
+        "wordType": "Verb (Dat + Akk) | Separable: No | Präteritum: zeigte | Perfekt: hat gezeigt"
+    },
+    {
+        "englishWord": "to ask",
+        "englishSentence": "Ask in class.",
+        "germanWord": "fragen",
+        "germanSentence": "Fragen Sie im Kurs.",
+        "wordType": "Verb (Akk) | Separable: No | Präteritum: fragte | Perfekt: hat gefragt"
+    },
+    {
+        "englishWord": "to highlight / mark",
+        "englishSentence": "Highlight.",
+        "germanWord": "markieren",
+        "germanSentence": "Markieren Sie.",
+        "wordType": "Verb (Akk) | Separable: No | Präteritum: markierte | Perfekt: hat markiert"
+    },
+    {
+        "englishWord": "the question, -s",
+        "englishSentence": "Complete the questions.",
+        "germanWord": "die Frage, -n",
+        "germanSentence": "Ergänzen Sie Fragen.",
+        "wordType": "Noun (Feminine)"
+    },
+    {
+        "englishWord": "to repeat (speaking)",
+        "englishSentence": "Listen and repeat.",
+        "germanWord": "nachsprechen",
+        "germanSentence": "Hören Sie und sprechen Sie nach.",
+        "wordType": "Verb (Dat + Akk) | Separable: Yes | Präteritum: sprach nach | Perfekt: hat nachgesprochen"
+    },
+    {
+        "englishWord": "to guess",
+        "englishSentence": "Guess.",
+        "germanWord": "raten",
+        "germanSentence": "Raten Sie.",
+        "wordType": "Verb (Akk) | Separable: No | Präteritum: riet | Perfekt: hat geraten"
+    },
+    {
+        "englishWord": "the word, -s",
+        "englishSentence": "Guess words.",
+        "germanWord": "das Wort, -er",
+        "germanSentence": "Raten Sie Wörter.",
+        "wordType": "Noun (Neuter)"
+    },
+    {
+        "englishWord": "the lesson, -s",
+        "englishSentence": "Guess words from the lesson.",
+        "germanWord": "die Lektion, -en",
+        "germanSentence": "Raten Sie Wörter aus der Lektion.",
+        "wordType": "Noun (Feminine)"
+    },
+    {
+        "englishWord": "to mean / think",
+        "englishSentence": "What do you think?",
+        "germanWord": "meinen",
+        "germanSentence": "Was meinen Sie?",
+        "wordType": "Verb (Akk) | Separable: No | Präteritum: meinte | Perfekt: hat gemeint"
+    },
+    {
+        "englishWord": "to say",
+        "englishSentence": "What are the people saying?",
+        "germanWord": "sagen",
+        "germanSentence": "Was sagen die Personen?",
+        "wordType": "Verb (Dat + Akk) | Separable: No | Präteritum: sagte | Perfekt: hat gesagt"
+    },
+    {
+        "englishWord": "to note down",
+        "englishSentence": "Note down.",
+        "germanWord": "notieren",
+        "germanSentence": "Notieren Sie.",
+        "wordType": "Verb (Akk) | Separable: No | Präteritum: notierte | Perfekt: hat notiert"
+    },
+    {
+        "englishWord": "to compare",
+        "englishSentence": "Compare.",
+        "germanWord": "vergleichen",
+        "germanSentence": "Vergleichen Sie.",
+        "wordType": "Verb (Akk) | Separable: No | Präteritum: verglich | Perfekt: hat verglichen"
+    },
+    {
+        "englishWord": "to write",
+        "englishSentence": "Write conversations.",
+        "germanWord": "schreiben",
+        "germanSentence": "Schreiben Sie Gespräche.",
+        "wordType": "Verb (Dat + Akk) | Separable: No | Präteritum: schrieb | Perfekt: hat geschrieben"
+    },
+    {
+        "englishWord": "to vary",
+        "englishSentence": "Vary.",
+        "germanWord": "variieren",
+        "germanSentence": "Variieren Sie.",
+        "wordType": "Verb (Akk) | Separable: No | Präteritum: variierte | Perfekt: hat variiert"
+    },
+    {
+        "englishWord": "to tell / narrate",
+        "englishSentence": "Tell.",
+        "germanWord": "erzählen",
+        "germanSentence": "Erzählen Sie.",
+        "wordType": "Verb (Dat + Akk) | Separable: No | Präteritum: erzählte | Perfekt: hat erzählt"
+    },
+    {
+        "englishWord": "to work",
+        "englishSentence": "Work in pairs.",
+        "germanWord": "arbeiten",
+        "germanSentence": "Arbeiten Sie zu zweit.",
+        "wordType": "Verb | Separable: No | Präteritum: arbeitete | Perfekt: hat gearbeitet"
+    },
+    {
+        "englishWord": "to draw",
+        "englishSentence": "Draw.",
+        "germanWord": "zeichnen",
+        "germanSentence": "Zeichnen Sie.",
+        "wordType": "Verb (Akk) | Separable: No | Präteritum: zeichnete | Perfekt: hat gezeichnet"
+    },
+    {
+        "englishWord": "to connect",
+        "englishSentence": "Listen and connect.",
+        "germanWord": "verbinden",
+        "germanSentence": "Hören Sie und verbinden Sie.",
+        "wordType": "Verb (Akk) | Separable: No | Präteritum: verband | Perfekt: hat verbunden"
+    },
+    {
+        "englishWord": "the answer, -s",
+        "englishSentence": "Write questions and answers.",
+        "germanWord": "die Antwort, -en",
+        "germanSentence": "Schreiben Sie Fragen und Antworten.",
+        "wordType": "Noun (Feminine)"
+    },
+    {
+        "englishWord": "I",
+        "englishSentence": "I am Lili.",
+        "germanWord": "ich",
+        "germanSentence": "Ich bin Lili.",
+        "wordType": "Pronoun"
+    },
+    {
+        "englishWord": "to be called",
+        "englishSentence": "My name is Lara Nowak.",
+        "germanWord": "heißen",
+        "germanSentence": "Ich heiße Lara Nowak.",
+        "wordType": "Verb | Separable: No | Präteritum: hieß | Perfekt: hat geheißen"
+    },
+    {
+        "englishWord": "the name, -s",
+        "englishSentence": "My name is Walter Baumann.",
+        "germanWord": "der Name, -n",
+        "germanSentence": "Mein Name ist Walter Baumann.",
+        "wordType": "Noun (Masculine)"
+    },
+    {
+        "englishWord": "to come",
+        "englishSentence": "I come from Germany.",
+        "germanWord": "kommen",
+        "germanSentence": "Ich komme aus Deutschland.",
+        "wordType": "Verb | Separable: No | Präteritum: kam | Perfekt: ist gekommen"
+    },
+    {
+        "englishWord": "Germany",
+        "englishSentence": "I come from Germany.",
+        "germanWord": "Deutschland",
+        "germanSentence": "Ich komme aus Deutschland.",
+        "wordType": "Noun (Proper, Neuter)"
+    },
+    {
+        "englishWord": "to speak",
+        "englishSentence": "I speak Polish.",
+        "germanWord": "sprechen",
+        "germanSentence": "Ich spreche Polnisch.",
+        "wordType": "Verb (Akk) | Separable: No | Präteritum: sprach | Perfekt: hat gesprochen"
+    },
+    {
+        "englishWord": "the German (language)",
+        "englishSentence": "I speak German.",
+        "germanWord": "das Deutsch",
+        "germanSentence": "Ich spreche Deutsch.",
+        "wordType": "Noun (Proper, Neuter)"
+    },
+    {
+        "englishWord": "and",
+        "englishSentence": "I speak German and English.",
+        "germanWord": "und",
+        "germanSentence": "Ich spreche Deutsch und Englisch.",
+        "wordType": "Conjunction"
+    },
+    {
+        "englishWord": "a little",
+        "englishSentence": "I speak German, English and a little Spanish.",
+        "germanWord": "ein bisschen",
+        "germanSentence": "Ich spreche Deutsch, Englisch und ein bisschen Spanisch.",
+        "wordType": "Adverb / Phrase"
+    },
+    {
+        "englishWord": "Good day",
+        "englishSentence": "Good day.",
+        "germanWord": "Guten Tag",
+        "germanSentence": "Guten Tag.",
+        "wordType": "Phrase"
+    },
+    {
+        "englishWord": "hello",
+        "englishSentence": "Hello! - Good day.",
+        "germanWord": "hallo",
+        "germanSentence": "Hallo! - Guten Tag.",
+        "wordType": "Phrase"
+    },
+    {
+        "englishWord": "Goodbye",
+        "englishSentence": "Goodbye.",
+        "germanWord": "Auf Wiedersehen",
+        "germanSentence": "Auf Wiedersehen.",
+        "wordType": "Phrase"
+    },
+    {
+        "englishWord": "bye",
+        "englishSentence": "Bye.",
+        "germanWord": "tschüs",
+        "germanSentence": "Tschüs.",
+        "wordType": "Phrase"
+    },
+    {
+        "englishWord": "the gentleman / Mr.",
+        "englishSentence": "Good day, Mr. Diaz.",
+        "germanWord": "der Herr, -en",
+        "germanSentence": "Guten Tag, Herr Diaz.",
+        "wordType": "Noun (Masculine)"
+    },
+    {
+        "englishWord": "the child, -ren",
+        "englishSentence": "Bye, children.",
+        "germanWord": "das Kind, -er",
+        "germanSentence": "Tschüs, Kinder.",
+        "wordType": "Noun (Neuter)"
+    },
+    {
+        "englishWord": "Good evening",
+        "englishSentence": "Good evening, ladies and gentlemen.",
+        "germanWord": "Guten Abend",
+        "germanSentence": "Guten Abend, meine Damen und Herren.",
+        "wordType": "Phrase"
+    },
+    {
+        "englishWord": "the lady, -ies",
+        "englishSentence": "Good evening, ladies and gentlemen.",
+        "germanWord": "die Dame, -n",
+        "germanSentence": "Guten Abend, meine Damen und Herren.",
+        "wordType": "Noun (Feminine)"
+    },
+    {
+        "englishWord": "welcome",
+        "englishSentence": "Welcome to \"Musik international\".",
+        "germanWord": "willkommen",
+        "germanSentence": "Willkommen bei „Musik international“.",
+        "wordType": "Adjective"
+    },
+    {
+        "englishWord": "at / to / with",
+        "englishSentence": "Welcome to \"Musik international\".",
+        "germanWord": "bei",
+        "germanSentence": "Willkommen bei „Musik international“.",
+        "wordType": "Preposition (Dativ)"
+    },
+    {
+        "englishWord": "the music",
+        "englishSentence": "Welcome to \"Musik international\".",
+        "germanWord": "die Musik (Sg.)",
+        "germanSentence": "Willkommen bei „Musik international“.",
+        "wordType": "Noun (Feminine)"
+    },
+    {
+        "englishWord": "international",
+        "englishSentence": "Welcome to \"Musik international\".",
+        "germanWord": "international",
+        "germanSentence": "Willkommen bei „Musik international“.",
+        "wordType": "Adjective"
+    },
+    {
+        "englishWord": "Good morning",
+        "englishSentence": "Good morning, Ms. Fleckenstein.",
+        "germanWord": "Guten Morgen",
+        "germanSentence": "Guten Morgen, Frau Fleckenstein.",
+        "wordType": "Phrase"
+    },
+    {
+        "englishWord": "the woman / Ms.",
+        "englishSentence": "Good morning, Ms. Fleckenstein.",
+        "germanWord": "die Frau, -en",
+        "germanSentence": "Guten Morgen, Frau Fleckenstein.",
+        "wordType": "Noun (Feminine)"
+    },
+    {
+        "englishWord": "thanks",
+        "englishSentence": "Oh, thanks.",
+        "germanWord": "danke",
+        "germanSentence": "Oh, danke.",
+        "wordType": "Phrase / Particle"
+    },
+    {
+        "englishWord": "Good night",
+        "englishSentence": "Good night. - Night, Dad.",
+        "germanWord": "Gute Nacht",
+        "germanSentence": "Gute Nacht. - Nacht, Papa.",
+        "wordType": "Phrase"
+    },
+    {
+        "englishWord": "the dad, -s",
+        "englishSentence": "Night, Dad.",
+        "germanWord": "der Papa, -s",
+        "germanSentence": "Nacht, Papa.",
+        "wordType": "Noun (Masculine)"
+    },
+    {
+        "englishWord": "to be",
+        "englishSentence": "I am Sofia Baumann.",
+        "germanWord": "sein",
+        "germanSentence": "Ich bin Sofia Baumann.",
+        "wordType": "Verb | Separable: No | Präteritum: war | Perfekt: ist gewesen"
+    },
+    {
+        "englishWord": "the excuse / apology, -ies",
+        "englishSentence": "Excuse me, what is your name?",
+        "germanWord": "die Entschuldigung, -en",
+        "germanSentence": "Entschuldigung, wie heißen Sie?",
+        "wordType": "Noun (Feminine)"
+    },
+    {
+        "englishWord": "how",
+        "englishSentence": "What is your name?",
+        "germanWord": "wie",
+        "germanSentence": "Wie heißen Sie?",
+        "wordType": "Adverb / Question Word"
+    },
+    {
+        "englishWord": "you (formal)",
+        "englishSentence": "What is your name?",
+        "germanWord": "Sie",
+        "germanSentence": "Wie heißen Sie?",
+        "wordType": "Pronoun (Formal)"
+    },
+    {
+        "englishWord": "who",
+        "englishSentence": "Who is that?",
+        "germanWord": "wer",
+        "germanSentence": "Wer ist das?",
+        "wordType": "Pronoun / Question Word"
+    },
+    {
+        "englishWord": "yes",
+        "englishSentence": "Yes, that's right.",
+        "germanWord": "ja",
+        "germanSentence": "Ja, stimmt.",
+        "wordType": "Adverb / Particle"
+    },
+    {
+        "englishWord": "no",
+        "englishSentence": "That is Sofia. - No, that is Lara.",
+        "germanWord": "nein",
+        "germanSentence": "Das ist Sofia. - Nein, das ist Lara.",
+        "wordType": "Adverb / Particle"
+    },
+    {
+        "englishWord": "where from",
+        "englishSentence": "Where do you come from?",
+        "germanWord": "woher",
+        "germanSentence": "Woher kommst du?",
+        "wordType": "Adverb / Question Word"
+    },
+    {
+        "englishWord": "from",
+        "englishSentence": "I am from Ukraine.",
+        "germanWord": "aus",
+        "germanSentence": "Ich bin aus der Ukraine.",
+        "wordType": "Preposition (Dativ)"
+    },
+    {
+        "englishWord": "you (informal)",
+        "englishSentence": "Who are you?",
+        "germanWord": "du",
+        "germanSentence": "Wer bist du?",
+        "wordType": "Pronoun"
+    },
+    {
+        "englishWord": "Austria",
+        "englishSentence": "I come from Austria.",
+        "germanWord": "Österreich",
+        "germanSentence": "Ich komme aus Österreich.",
+        "wordType": "Noun (Proper, Neuter)"
+    },
+    {
+        "englishWord": "the Switzerland",
+        "englishSentence": "I come from Switzerland.",
+        "germanWord": "die Schweiz",
+        "germanSentence": "Ich komme aus der Schweiz.",
+        "wordType": "Noun (Proper, Feminine)"
+    },
+    {
+        "englishWord": "aha / I see",
+        "englishSentence": "I see!",
+        "germanWord": "aha",
+        "germanSentence": "Aha!",
+        "wordType": "Interjection"
+    },
+    {
+        "englishWord": "great",
+        "englishSentence": "Oh, great.",
+        "germanWord": "toll",
+        "germanSentence": "Ah, toll.",
+        "wordType": "Adjective"
+    },
+    {
+        "englishWord": "interesting",
+        "englishSentence": "From Thailand? Interesting.",
+        "germanWord": "interessant",
+        "germanSentence": "Aus Thailand? Interessant.",
+        "wordType": "Adjective"
+    },
+    {
+        "englishWord": "what",
+        "englishSentence": "What do you speak, Ms. Tufan?",
+        "germanWord": "was",
+        "germanSentence": "Was sprechen Sie, Frau Tufan?",
+        "wordType": "Pronoun / Question Word"
+    },
+    {
+        "englishWord": "also / too",
+        "englishSentence": "I see, also Turkish.",
+        "germanWord": "auch",
+        "germanSentence": "Aha, auch Türkisch.",
+        "wordType": "Adverb"
+    },
+    {
+        "englishWord": "the language, -s",
+        "englishSentence": "Language: German, Polish...",
+        "germanWord": "die Sprache, -n",
+        "germanSentence": "Sprache: Deutsch, Polnisch,...",
+        "wordType": "Noun (Feminine)"
+    },
+    {
+        "englishWord": "the letter, -s",
+        "englishSentence": "Letter: a, k, s...",
+        "germanWord": "der Buchstabe, -n",
+        "germanSentence": "Buchstabe: a, k, s ...",
+        "wordType": "Noun (Masculine)"
+    },
+    {
+        "englishWord": "the alphabet",
+        "englishSentence": "the alphabet: A, B, C...",
+        "germanWord": "das Alphabet (Sg.)",
+        "germanSentence": "das Alphabet: A, B, C...",
+        "wordType": "Noun (Neuter)"
+    },
+    {
+        "englishWord": "Pardon? / Excuse me?",
+        "englishSentence": "Pardon?",
+        "germanWord": "Wie bitte?",
+        "germanSentence": "Wie bitte?",
+        "wordType": "Phrase"
+    },
+    {
+        "englishWord": "to spell",
+        "englishSentence": "I spell: K-O-S-T-A-D-I-N-O-V",
+        "germanWord": "buchstabieren",
+        "germanSentence": "Ich buchstabiere: K-O-S-T-A-D-I-N-O-V",
+        "wordType": "Verb (Akk) | Separable: No | Präteritum: buchstabierte | Perfekt: hat buchstabiert"
+    },
+    {
+        "englishWord": "please",
+        "englishSentence": "Spell, please.",
+        "germanWord": "bitte",
+        "germanSentence": "Buchstabieren Sie, bitte.",
+        "wordType": "Adverb / Particle"
+    },
+    {
+        "englishWord": "the company, -ies",
+        "englishSentence": "Company Microlab, good day.",
+        "germanWord": "die Firma, Firmen",
+        "germanSentence": "Firma Microlab, guten Tag.",
+        "wordType": "Noun (Feminine)"
+    },
+    {
+        "englishWord": "Thank you very much",
+        "englishSentence": "Thank you very much.",
+        "germanWord": "Vielen Dank",
+        "germanSentence": "Vielen Dank.",
+        "wordType": "Phrase"
+    },
+    {
+        "englishWord": "Goodbye (on phone)",
+        "englishSentence": "Goodbye, Mr. Kostadinov.",
+        "germanWord": "Auf Wiederhören",
+        "germanSentence": "Auf Wiederhören, Herr Kostadinov.",
+        "wordType": "Phrase"
+    },
+    {
+        "englishWord": "the address, -es",
+        "englishSentence": "Address: Hofgasse 8, 6020 Innsbruck",
+        "germanWord": "die Adresse, -n",
+        "germanSentence": "Adresse: Hofgasse 8, 6020 Innsbruck",
+        "wordType": "Noun (Feminine)"
+    },
+    {
+        "englishWord": "the business card, -s",
+        "englishSentence": "Write your business card.",
+        "germanWord": "die Visitenkarte, -n",
+        "germanSentence": "Schreiben Sie Ihre Visitenkarte.",
+        "wordType": "Noun (Feminine)"
+    },
+    {
+        "englishWord": "the first name, -s",
+        "englishSentence": "First name: Lorenzo, Lucie, Jürgen...",
+        "germanWord": "der Vorname, -n",
+        "germanSentence": "Vorname: Lorenzo, Lucie, Jürgen...",
+        "wordType": "Noun (Masculine)"
+    },
+    {
+        "englishWord": "the surname, -s",
+        "englishSentence": "Surname: Menardi, Plank...",
+        "germanWord": "der Familienname, -n",
+        "germanSentence": "Familienname: Menardi, Plank...",
+        "wordType": "Noun (Masculine)"
+    },
+    {
+        "englishWord": "the street, -s",
+        "englishSentence": "Street: Hofgasse, Bahnhofstraße, Aachener Straße...",
+        "germanWord": "die Straße, -n",
+        "germanSentence": "Straße: Hofgasse, Bahnhofstraße, Aachener Straße ...",
+        "wordType": "Noun (Feminine)"
+    },
+    {
+        "englishWord": "the city, -ies",
+        "englishSentence": "City: Berlin, Linz, Schaan...",
+        "germanWord": "die Stadt, -e",
+        "germanSentence": "Stadt: Berlin, Linz, Schaan,...",
+        "wordType": "Noun (Feminine)"
+    },
+    {
+        "englishWord": "the country, -ies",
+        "englishSentence": "Country: Austria, Switzerland...",
+        "germanWord": "das Land, -er",
+        "germanSentence": "Land: Österreich, Schweiz,...",
+        "wordType": "Noun (Neuter)"
+    },
+    {
+        "englishWord": "the email, -s",
+        "englishSentence": "Email: l-eigner@dk.de",
+        "germanWord": "die E-Mail, -s",
+        "germanSentence": "E-Mail: l-eigner@dk.de",
+        "wordType": "Noun (Feminine)"
+    },
+    {
+        "englishWord": "the telephone, -s",
+        "englishSentence": "Telephone: 041 227 11 00",
+        "germanWord": "das Telefon, -e",
+        "germanSentence": "Telefon: 041 227 11 00",
+        "wordType": "Noun (Neuter)"
+    },
+    {
+        "englishWord": "the form, -s",
+        "englishSentence": "Fill in the form.",
+        "germanWord": "das Formular, -e",
+        "germanSentence": "Ergänzen Sie das Formular.",
+        "wordType": "Noun (Neuter)"
+    },
+    {
+        "englishWord": "the course, -s",
+        "englishSentence": "Course A1/1 German as a foreign language",
+        "germanWord": "der Kurs, -e",
+        "germanSentence": "Kurs A1/1 Deutsch als Fremdsprache",
+        "wordType": "Noun (Masculine)"
+    },
+    {
+        "englishWord": "the foreign language, -s",
+        "englishSentence": "I speak a foreign language: German.",
+        "germanWord": "die Fremdsprache, -n",
+        "germanSentence": "Ich spreche eine Fremdsprache: Deutsch.",
+        "wordType": "Noun (Feminine)"
+    },
+    {
+        "englishWord": "the registration, -s",
+        "englishSentence": "Course A1/1 German as a foreign language - Registration",
+        "germanWord": "die Anmeldung, -en",
+        "germanSentence": "Kurs A1/1 Deutsch als Fremdsprache - Anmeldung",
+        "wordType": "Noun (Feminine)"
+    },
+    {
+        "englishWord": "the postal code, -s",
+        "englishSentence": "The postal code is 50676.",
+        "germanWord": "die Postleitzahl, -en",
+        "germanSentence": "Die Postleitzahl ist 50676.",
+        "wordType": "Noun (Feminine)"
+    },
+    {
+        "englishWord": "the Poland",
+        "englishSentence": "I come from Poland.",
+        "germanWord": "das Polen",
+        "germanSentence": "Ich komme aus Polen.",
+        "wordType": "Noun (Proper, Neuter)"
+    },
+    {
+        "englishWord": "the Polish (language)",
+        "englishSentence": "I speak Polish.",
+        "germanWord": "das Polnisch",
+        "germanSentence": "Ich spreche Polnisch.",
+        "wordType": "Noun (Proper, Neuter)"
+    },
+    {
+        "englishWord": "the Switzerland",
+        "englishSentence": "I come from Switzerland.",
+        "germanWord": "die Schweiz",
+        "germanSentence": "Ich komme aus der Schweiz.",
+        "wordType": "Noun (Proper, Feminine)"
+    },
+    {
+        "englishWord": "the Turkey",
+        "englishSentence": "I come from Turkey.",
+        "germanWord": "die Türkei",
+        "germanSentence": "Ich komme aus der Türkei.",
+        "wordType": "Noun (Proper, Feminine)"
+    },
+    {
+        "englishWord": "the Turkish (language)",
+        "englishSentence": "I speak Turkish.",
+        "germanWord": "das Türkisch",
+        "germanSentence": "Ich spreche Türkisch.",
+        "wordType": "Noun (Proper, Neuter)"
+    },
+    {
+        "englishWord": "the Romania",
+        "englishSentence": "I come from Romania.",
+        "germanWord": "das Rumänien",
+        "germanSentence": "Ich komme aus Rumänien.",
+        "wordType": "Noun (Proper, Neuter)"
+    },
+    {
+        "englishWord": "the Romanian (language)",
+        "englishSentence": "I speak Romanian.",
+        "germanWord": "das Rumänisch",
+        "germanSentence": "Ich spreche Rumänisch.",
+        "wordType": "Noun (Proper, Neuter)"
+    },
+    {
+        "englishWord": "the Spain",
+        "englishSentence": "I come from Spain.",
+        "germanWord": "das Spanien",
+        "germanSentence": "Ich komme aus Spanien.",
+        "wordType": "Noun (Proper, Neuter)"
+    },
+    {
+        "englishWord": "the Spanish (language)",
+        "englishSentence": "I speak Spanish.",
+        "germanWord": "das Spanisch",
+        "germanSentence": "Ich spreche Spanisch.",
+        "wordType": "Noun (Proper, Neuter)"
+    },
+    {
+        "englishWord": "the Syria",
+        "englishSentence": "I come from Syria.",
+        "germanWord": "das Syrien",
+        "germanSentence": "Ich komme aus Syrien.",
+        "wordType": "Noun (Proper, Neuter)"
+    },
+    {
+        "englishWord": "the Arabic (language)",
+        "englishSentence": "I speak Arabic.",
+        "germanWord": "das Arabisch",
+        "germanSentence": "Ich spreche Arabisch.",
+        "wordType": "Noun (Proper, Neuter)"
+    },
+    {
+        "englishWord": "the Hungary",
+        "englishSentence": "I come from Hungary.",
+        "germanWord": "das Ungarn",
+        "germanSentence": "Ich komme aus Ungarn.",
+        "wordType": "Noun (Proper, Neuter)"
+    },
+    {
+        "englishWord": "the Hungarian (language)",
+        "englishSentence": "I speak Hungarian.",
+        "germanWord": "das Ungarisch",
+        "germanSentence": "Ich spreche Ungarisch.",
+        "wordType": "Noun (Proper, Neuter)"
+    },
+    {
+        "englishWord": "the Bulgaria",
+        "englishSentence": "I come from Bulgaria.",
+        "germanWord": "das Bulgarien",
+        "germanSentence": "Ich komme aus Bulgarien.",
+        "wordType": "Noun (Proper, Neuter)"
+    },
+    {
+        "englishWord": "the Bulgarian (language)",
+        "englishSentence": "I speak Bulgarian.",
+        "germanWord": "das Bulgarisch",
+        "germanSentence": "Ich spreche Bulgarisch.",
+        "wordType": "Noun (Proper, Neuter)"
+    },
+    {
+        "englishWord": "the Italy",
+        "englishSentence": "I come from Italy.",
+        "germanWord": "das Italien",
+        "germanSentence": "Ich komme aus Italien.",
+        "wordType": "Noun (Proper, Neuter)"
+    },
+    {
+        "englishWord": "the Italian (language)",
+        "englishSentence": "I speak Italian.",
+        "germanWord": "das Italienisch",
+        "germanSentence": "Ich spreche Italienisch.",
+        "wordType": "Noun (Proper, Neuter)"
+    },
+    {
+        "englishWord": "the Austria",
+        "englishSentence": "I come from Austria.",
+        "germanWord": "das Österreich",
+        "germanSentence": "Ich komme aus Österreich.",
+        "wordType": "Noun (Proper, Neuter)"
+    },
+    {
+        "englishWord": "the Greece",
+        "englishSentence": "I come from Greece.",
+        "germanWord": "das Griechenland",
+        "germanSentence": "Ich komme aus Griechenland.",
+        "wordType": "Noun (Proper, Neuter)"
+    },
+    {
+        "englishWord": "the Greek (language)",
+        "englishSentence": "I speak Greek.",
+        "germanWord": "das Griechisch",
+        "germanSentence": "Ich spreche Griechisch.",
+        "wordType": "Noun (Proper, Neuter)"
+    }
+]

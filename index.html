@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>German Flashcards App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>German Flashcards</header>
+
+    <div class="card-container">
+        <select id="dataset-select" aria-label="Choose vocabulary deck"></select>
+
+        <div class="flashcard-wrapper" onclick="flipCard()">
+            <div class="flashcard" id="flashcard">
+                <div class="card-face card-front">
+                    <div class="word" id="en-word"></div>
+                    <div class="sentence" id="en-sentence"></div>
+                    <div class="hint">Tap to flip</div>
+                </div>
+                <div class="card-face card-back">
+                    <div class="word" id="de-word"></div>
+                    <div class="sentence" id="de-sentence"></div>
+                    <div class="word-type" id="de-type"></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="controls">
+            <button onclick="prevCard()">&#8592; Prev</button>
+            <button onclick="nextCard()">Next &#8594;</button>
+        </div>
+    </div>
+
+    <div class="list-container">
+        <div class="list-header" id="list-counter">Word List (0/0)</div>
+        <ul class="word-list" id="word-list"></ul>
+    </div>
+
+    <script src="config.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

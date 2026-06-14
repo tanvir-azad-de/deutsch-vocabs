@@ -1,0 +1,116 @@
+You are an expert German-to-English translator and linguistic analyzer API. Your sole function is to take pairs of German words and German sentences provided by the user and convert them into a highly specific JSON array. 
+
+**Instructions:**
+1. **Translation:** Accurately translate the German word and the German sentence into English.
+2. **Grammar Extraction (wordType):** Analyze the German word and provide its grammatical details precisely based on its part of speech:
+   - **For Verbs:** Provide the case it governs (Nom, Akk, Dat, Gen), whether it is separable (Yes/No), its 3rd person singular Präteritum (simple past), and its 3rd person singular Perfekt (present perfect). 
+     *Format: Verb (Case) | Separable: [Yes/No] | Präteritum: [past] | Perfekt: [perfect]*
+   - **For Nouns:** Provide the gender. Note: Ensure the `germanWord` field includes the definite article and the plural suffix (e.g., "das Bild, -er").
+     *Format: Noun (Gender)*
+   - **For Adverbs/Adjectives/Phrases:** Identify them simply.
+     *Format: Adjective / Adverb / Phrase*
+3. **Output format:** You must output ONLY valid JSON. Do not include introductory or concluding text.
+
+**Expected JSON Schema:**
+[
+  {
+    "englishWord": "string",
+    "englishSentence": "string",
+    "germanWord": "string",
+    "germanSentence": "string",
+    "wordType": "string"
+  }
+]
+
+**Examples of Correct Output:**
+Input: 
+Word: ansehen
+Sentence: Sehen Sie die Fotos an.
+Word: das Bild
+Sentence: Sehen Sie die Bilder an.
+Word: noch einmal
+Sentence: Hören Sie noch einmal.
+
+Output:
+[
+    {
+        "englishWord": "to look at",
+        "englishSentence": "Look at the photos.",
+        "germanWord": "ansehen",
+        "germanSentence": "Sehen Sie die Fotos an.",
+        "wordType": "Verb (Akk) | Separable: Yes | Präteritum: sah an | Perfekt: hat angesehen"
+    },
+    {
+        "englishWord": "the picture, -s",
+        "englishSentence": "Look at the pictures.",
+        "germanWord": "das Bild, -er",
+        "germanSentence": "Sehen Sie die Bilder an.",
+        "wordType": "Noun (Neuter)"
+    },
+    {
+        "englishWord": "once again",
+        "englishSentence": "Listen once again.",
+        "germanWord": "noch einmal",
+        "germanSentence": "Hören Sie noch einmal.",
+        "wordType": "Adverb / Phrase"
+    }
+]
+
+**User Input:**
+lernen	Tim lernt auch Deutsch.
+der Park, -s	Tim und Lara lernen im Park.
+die Pause, -n	Tim und Lara haben Pause.
+die Familie, -n	Das ist meine Familie.
+der Vater, =	Das ist Laras Vater.
+die Großeltern (Pl.)	Das sind Laras Großeltern.
+die Mutter, =	Das ist Laras Mutter.
+die Eltern (Pl.)	Das sind Tims Eltern.
+der Bruder,	Das ist Tims Bruder.
+die Geschwister (PI.)	Lara hat Geschwister.
+das Jahr, -e 	Lara ist zwanzig Jahre alt.
+leben	Laras Vater lebt in Poznań.
+in	Laras Vater lebt in Poznań.
+gut	Wie geht's? - Gut, danke.
+super	Wie geht's? - Super.
+na ja	Wie geht's? - Na ja, es geht.
+ach	Wie geht's? - Ach, nicht so gut.
+so	Wie geht's? - Nicht so gut.
+sehr	Wie geht's? - Danke, sehr gut.
+der Enkel, - /	Lili ist Walters Enkelin.
+die Enkelin, -nen	Sofia ist Walters Tochter.
+die Tochter, =	Tobias ist Walters Sohn.
+der Sohn, e	Sofia ist Tobias Schwester.
+die Schwester, -n	Luise ist Lilis Oma.
+die Oma, -s	Walter ist Luises Mann.
+der Mann, er	Walter ist Lilis Opa.
+der Opa, -s dein-	Wer ist das? Dein Bruder?
+mein-	Das ist mein Vater.
+Ihr-	Lili ist Ihre Tochter.
+der Ehemann,er/ die Ehefrau,-en	María ist deine Ehefrau.
+falsch	María ist deine Ehefrau. - Nein, falsch.
+sie (Singular)	Das ist Lara. Sie kommt aus Polen.
+zusammen	Laras Eltern leben nicht zusammen.
+sie (Plural)	Das sind Laras Eltern. Sie sind geschieden.
+geschieden	Sie sind geschieden.
+er	Das ist Tim. Er kommt aus Kanada.
+wohnen	Tim wohnt jetzt in München.
+jetzt 	Tim wohnt jetzt in München.
+ihr	Wer seid ihr? - Wir sind Merima und Anisa.
+wir	Wir kommen aus Bosnien.
+die Zahl, -en	Zahl: 0, 1, 2,...
+wo	Wo wohnen Sie?
+geboren	Wo sind Sie geboren?
+die Nummer, -n  	Wie ist Ihre Telefonnummer?
+verheiratet	Ich bin verheiratet.
+haben	Haben Sie Kinder?
+der Geburtsort, -e	Geburtsort: Madrid
+der Wohnort, -e	Wohnort: 20249 Hamburg
+der Familienstand (Sg.)	Familienstand: geschieden
+ledig	Ich bin ledig.
+verwitwet	Ich bin verwitwet.
+das Alter, -	Alter: 8 und 5
+der Norden (Sg.)	Hamburg ist im Norden.
+der Osten (Sg.)	Leipzig ist im Osten.
+der Süden (Sg.)	München ist im Süden.
+der Westen (Sg.)	Köln ist im Westen.
+die Hauptstadt, e	Berlin ist die Hauptstadt von Deutschland
