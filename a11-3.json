@@ -1,0 +1,457 @@
+[
+    {
+        "englishWord": "the banana, -s",
+        "englishSentence": "Lara and Sofia have bananas.",
+        "germanWord": "die Banane, -n",
+        "germanSentence": "Lara und Sofia haben Bananen.",
+        "wordType": "Noun (Feminine)"
+    },
+    {
+        "englishWord": "the butter",
+        "englishSentence": "Lara and Sofia have butter.",
+        "germanWord": "die Butter (Sg.)",
+        "germanSentence": "Lara und Sofia haben Butter.",
+        "wordType": "Noun (Feminine)"
+    },
+    {
+        "englishWord": "the egg, -s",
+        "englishSentence": "They have eggs.",
+        "germanWord": "das Ei, -er",
+        "germanSentence": "Sie haben Eier.",
+        "wordType": "Noun (Neuter)"
+    },
+    {
+        "englishWord": "the flour",
+        "englishSentence": "Lara and Sofia have flour.",
+        "germanWord": "das Mehl (Sg.)",
+        "germanSentence": "Lara und Sofia haben Mehl.",
+        "wordType": "Noun (Neuter)"
+    },
+    {
+        "englishWord": "the milk",
+        "englishSentence": "Lara and Sofia have milk.",
+        "germanWord": "die Milch (Sg.)",
+        "germanSentence": "Lara und Sofia haben Milch.",
+        "wordType": "Noun (Feminine)"
+    },
+    {
+        "englishWord": "the sugar",
+        "englishSentence": "Lara and Sofia have sugar.",
+        "germanWord": "der Zucker (Sg.)",
+        "germanSentence": "Lara und Sofia haben Zucker.",
+        "wordType": "Noun (Masculine)"
+    },
+    {
+        "englishWord": "the pancake, -s",
+        "englishSentence": "Super delicious ... banana pancakes!",
+        "germanWord": "der Pfannkuchen, -",
+        "germanSentence": "Superlecker ... Bananen-pfannkuchen!",
+        "wordType": "Noun (Masculine)"
+    },
+    {
+        "englishWord": "the chocolate",
+        "englishSentence": "That is chocolate.",
+        "germanWord": "die Schokolade (Sg.)",
+        "germanSentence": "Das ist Schokolade.",
+        "wordType": "Noun (Feminine)"
+    },
+    {
+        "englishWord": "to need",
+        "englishSentence": "They need eggs.",
+        "germanWord": "brauchen",
+        "germanSentence": "Sie brauchen Eier.",
+        "wordType": "Verb (Akk) | Separable: No | Präteritum: brauchte | Perfekt: hat gebraucht"
+    },
+    {
+        "englishWord": "to buy",
+        "englishSentence": "Lili buys bananas.",
+        "germanWord": "kaufen",
+        "germanSentence": "Lili kauft Bananen.",
+        "wordType": "Verb (Akk) | Separable: No | Präteritum: kaufte | Perfekt: hat gekauft"
+    },
+    {
+        "englishWord": "the hunger",
+        "englishSentence": "I am hungry.",
+        "germanWord": "der Hunger (Sg.)",
+        "germanSentence": "Ich habe Hunger.",
+        "wordType": "Noun (Masculine)"
+    },
+    {
+        "englishWord": "the euro",
+        "englishSentence": "That comes to 3 euros 87.",
+        "germanWord": "der Euro (Sg.)",
+        "germanSentence": "Das macht dann 3 Euro 87.",
+        "wordType": "Noun (Masculine)"
+    },
+    {
+        "englishWord": "the meat",
+        "englishSentence": "Do we have meat?",
+        "germanWord": "das Fleisch (Sg.)",
+        "germanSentence": "Haben wir Fleisch?",
+        "wordType": "Noun (Neuter)"
+    },
+    {
+        "englishWord": "the beer",
+        "englishSentence": "Do we have beer?",
+        "germanWord": "das Bier (Sg.)",
+        "germanSentence": "Haben wir Bier?",
+        "wordType": "Noun (Neuter)"
+    },
+    {
+        "englishWord": "the cheese",
+        "englishSentence": "I have cheese.",
+        "germanWord": "der Käse (Sg.)",
+        "germanSentence": "Ich habe Käse.",
+        "wordType": "Noun (Masculine)"
+    },
+    {
+        "englishWord": "the salt",
+        "englishSentence": "Do you have salt?",
+        "germanWord": "das Salz (Sg.)",
+        "germanSentence": "Haben Sie Salz?",
+        "wordType": "Noun (Neuter)"
+    },
+    {
+        "englishWord": "the tea, -s",
+        "englishSentence": "Do we have tea?",
+        "germanWord": "der Tee, -s",
+        "germanSentence": "Haben wir Tee?",
+        "wordType": "Noun (Masculine)"
+    },
+    {
+        "englishWord": "the bread, -es",
+        "englishSentence": "Are those loaves of bread?",
+        "germanWord": "das Brot, -e",
+        "germanSentence": "Sind das Brote?",
+        "wordType": "Noun (Neuter)"
+    },
+    {
+        "englishWord": "the wine, -s",
+        "englishSentence": "Do we need wine?",
+        "germanWord": "der Wein, -e",
+        "germanSentence": "Brauchen wir Wein?",
+        "wordType": "Noun (Masculine)"
+    },
+    {
+        "englishWord": "the mineral water",
+        "englishSentence": "Do we have mineral water?",
+        "germanWord": "das Mineralwasser (Sg.)",
+        "germanSentence": "Haben wir Mineralwasser?",
+        "wordType": "Noun (Neuter)"
+    },
+    {
+        "englishWord": "the rice",
+        "englishSentence": "Do you need rice?",
+        "germanWord": "der Reis (Sg.)",
+        "germanSentence": "Brauchst du Reis?",
+        "wordType": "Noun (Masculine)"
+    },
+    {
+        "englishWord": "the fish, -es",
+        "englishSentence": "Do we need fish?",
+        "germanWord": "der Fisch, -e",
+        "germanSentence": "Brauchen wir Fisch?",
+        "wordType": "Noun (Masculine)"
+    },
+    {
+        "englishWord": "a / no",
+        "englishSentence": "That is a chocolate egg. That is definitely not an egg!",
+        "germanWord": "ein- / kein-",
+        "germanSentence": "Das ist ein Schokoladenei. Das ist doch kein Ei!",
+        "wordType": "Adjective"
+    },
+    {
+        "englishWord": "the apple, -s",
+        "englishSentence": "That is not an apple.",
+        "germanWord": "der Apfel, -\u00a8",
+        "germanSentence": "Das ist kein Apfel.",
+        "wordType": "Noun (Masculine)"
+    },
+    {
+        "englishWord": "the orange, -s",
+        "englishSentence": "That is an orange.",
+        "germanWord": "die Orange, -n",
+        "germanSentence": "Das ist eine Orange.",
+        "wordType": "Noun (Feminine)"
+    },
+    {
+        "englishWord": "the cake, -s",
+        "englishSentence": "That is not a cake.",
+        "germanWord": "der Kuchen, -",
+        "germanSentence": "Das ist kein Kuchen.",
+        "wordType": "Noun (Masculine)"
+    },
+    {
+        "englishWord": "the coffee, -s",
+        "englishSentence": "That is not coffee.",
+        "germanWord": "der Kaffee, -s",
+        "germanSentence": "Das ist kein Kaffee.",
+        "wordType": "Noun (Masculine)"
+    },
+    {
+        "englishWord": "the juice, -s",
+        "englishSentence": "That is not juice.",
+        "germanWord": "der Saft, -\u00a8e",
+        "germanSentence": "Das ist kein Saft.",
+        "wordType": "Noun (Masculine)"
+    },
+    {
+        "englishWord": "the bread roll, -s",
+        "englishSentence": "That is definitely not a bread roll.",
+        "germanWord": "das Brötchen, -",
+        "germanSentence": "Das ist doch kein Brötchen.",
+        "wordType": "Noun (Neuter)"
+    },
+    {
+        "englishWord": "the little sausage, -s",
+        "englishSentence": "Is that a sausage?",
+        "germanWord": "das Würstchen, -",
+        "germanSentence": "Ist das ein Würstchen?",
+        "wordType": "Noun (Neuter)"
+    },
+    {
+        "englishWord": "the pear, -s",
+        "englishSentence": "That is not a pear.",
+        "germanWord": "die Birne, -n",
+        "germanSentence": "Das ist keine Birne.",
+        "wordType": "Noun (Feminine)"
+    },
+    {
+        "englishWord": "the tomato, -s",
+        "englishSentence": "That is a tomato.",
+        "germanWord": "die Tomate, -n",
+        "germanSentence": "Das ist eine Tomate.",
+        "wordType": "Noun (Feminine)"
+    },
+    {
+        "englishWord": "the potato, -s",
+        "englishSentence": "No, those are not potatoes.",
+        "germanWord": "die Kartoffel, -n",
+        "germanSentence": "Nein, das sind keine Kartoffeln.",
+        "wordType": "Noun (Feminine)"
+    },
+    {
+        "englishWord": "the yogurt, -s",
+        "englishSentence": "Is that a yogurt?",
+        "germanWord": "der/das Joghurt, -s",
+        "germanSentence": "Ist das ein Joghurt?",
+        "wordType": "Noun (Masculine/Neuter)"
+    },
+    {
+        "englishWord": "the onion, -s",
+        "englishSentence": "Are those onions?",
+        "germanWord": "die Zwiebel, -n",
+        "germanSentence": "Sind das Zwiebeln?",
+        "wordType": "Noun (Feminine)"
+    },
+    {
+        "englishWord": "the shelf, -ves",
+        "englishSentence": "In shelf A there are three bananas.",
+        "germanWord": "das Regal, -e",
+        "germanSentence": "In Regal A sind drei Bananen.",
+        "wordType": "Noun (Neuter)"
+    },
+    {
+        "englishWord": "the price, -s",
+        "englishSentence": "Price: 2.45 euros.",
+        "germanWord": "der Preis, -e",
+        "germanSentence": "Preis: 2,45 Euro.",
+        "wordType": "Noun (Masculine)"
+    },
+    {
+        "englishWord": "the cent",
+        "englishSentence": "That comes to 2 euros and 45 cents.",
+        "germanWord": "der Cent (Sg.)",
+        "germanSentence": "Das macht 2 Euro und 45 Cent.",
+        "wordType": "Noun (Masculine)"
+    },
+    {
+        "englishWord": "the brochure, -s",
+        "englishSentence": "Look at the brochure.",
+        "germanWord": "der Prospekt, -e",
+        "germanSentence": "Sehen Sie den Prospekt an.",
+        "wordType": "Noun (Masculine)"
+    },
+    {
+        "englishWord": "the special offer, -s",
+        "englishSentence": "Today on special offer: 4 kiwis for €0.80!",
+        "germanWord": "das Sonderangebot, -e",
+        "germanSentence": "Heute im Sonderangebot: 4 Kiwis für 0,80 €!",
+        "wordType": "Noun (Neuter)"
+    },
+    {
+        "englishWord": "the food item, -s",
+        "englishSentence": "Food items: milk, bread, eggs ...",
+        "germanWord": "das Lebensmittel, -",
+        "germanSentence": "Lebensmittel: Milch, Brot, Eier ...",
+        "wordType": "Noun (Neuter)"
+    },
+    {
+        "englishWord": "how much do ... cost",
+        "englishSentence": "How much does a loaf of bread cost? A loaf of bread costs €2.49.",
+        "germanWord": "wie viel kosten",
+        "germanSentence": "Wie viel kostet ein Brot? Ein Brot kostet 2,49 €.",
+        "wordType": "Phrase"
+    },
+    {
+        "englishWord": "the kilo(gram)",
+        "englishSentence": "How much does a kilo of oranges cost?",
+        "germanWord": "das Kilo(gramm) (kg) (Sg.)",
+        "germanSentence": "Wie viel kostet ein Kilo Orangen?",
+        "wordType": "Noun (Neuter)"
+    },
+    {
+        "englishWord": "the gram",
+        "englishSentence": "How much does 100 grams of cheese cost?",
+        "germanWord": "das Gramm (g) (Sg.)",
+        "germanSentence": "Was kosten 100 Gramm Käse?",
+        "wordType": "Noun (Neuter)"
+    },
+    {
+        "englishWord": "the pound",
+        "englishSentence": "How much does a pound of apples cost?",
+        "germanWord": "das Pfund (Sg.)",
+        "germanSentence": "Wie viel kostet ein Pfund Äpfel?",
+        "wordType": "Noun (Neuter)"
+    },
+    {
+        "englishWord": "the liter, -s",
+        "englishSentence": "A liter of milk costs 75 cents.",
+        "germanWord": "der Liter (l), -",
+        "germanSentence": "Ein Liter Milch kostet 75 Cent.",
+        "wordType": "Noun (Masculine)"
+    },
+    {
+        "englishWord": "the bottle, -s",
+        "englishSentence": "A bottle of juice costs €1.09.",
+        "germanWord": "die Flasche, -n",
+        "germanSentence": "Eine Flasche Saft kostet 1,09 €.",
+        "wordType": "Noun (Feminine)"
+    },
+    {
+        "englishWord": "the can, -s",
+        "englishSentence": "A can of tomatoes costs €0.49.",
+        "germanWord": "die Dose, -n",
+        "germanSentence": "Eine Dose Tomaten kostet 0,49 €.",
+        "wordType": "Noun (Feminine)"
+    },
+    {
+        "englishWord": "the cream",
+        "englishSentence": "A tub of cream costs 39 cents.",
+        "germanWord": "die Sahne (Sg.)",
+        "germanSentence": "Ein Becher Sahne kostet 39 Cent.",
+        "wordType": "Noun (Feminine)"
+    },
+    {
+        "englishWord": "the sausage, -s",
+        "englishSentence": "100 grams of sausage cost €2.29.",
+        "germanWord": "die Wurst, -\u00a8e",
+        "germanSentence": "100 Gramm Wurst kosten 2,29 €.",
+        "wordType": "Noun (Feminine)"
+    },
+    {
+        "englishWord": "the minced meat",
+        "englishSentence": "How much does a kilo of minced meat cost?",
+        "germanWord": "das Hackfleisch (Sg.)",
+        "germanSentence": "Wie viel kostet ein Kilo Hackfleisch?",
+        "wordType": "Noun (Neuter)"
+    },
+    {
+        "englishWord": "the salesman, - / the saleswoman, -s",
+        "englishSentence": "I am a salesman.",
+        "germanWord": "der Verkäufer, - / die Verkäuferin, -nen",
+        "germanSentence": "Ich bin Verkäufer.",
+        "wordType": "Noun (Masculine / Feminine)"
+    },
+    {
+        "englishWord": "the customer (m), -s / the customer (f), -s",
+        "englishSentence": "I am a customer.",
+        "germanWord": "der Kunde, -n / die Kundin, -nen",
+        "germanSentence": "Ich bin Kunde.",
+        "wordType": "Noun (Masculine / Feminine)"
+    },
+    {
+        "englishWord": "still / additionally",
+        "englishSentence": "I also still need apples.",
+        "germanWord": "noch",
+        "germanSentence": "Ich brauche auch noch Äpfel.",
+        "wordType": "Adverb"
+    },
+    {
+        "englishWord": "all / everything",
+        "englishSentence": "That is all.",
+        "germanWord": "all-",
+        "germanSentence": "Das ist alles.",
+        "wordType": "Adjective"
+    },
+    {
+        "englishWord": "would like",
+        "englishSentence": "I would like pears.",
+        "germanWord": "möchten",
+        "germanSentence": "Ich möchte Birnen.",
+        "wordType": "Verb (Akk) | Separable: No | Präteritum: mochte | Perfekt: hat gemocht"
+    },
+    {
+        "englishWord": "to find",
+        "englishSentence": "Where do I find spinach?",
+        "germanWord": "finden",
+        "germanSentence": "Wo finde ich Spinat?",
+        "wordType": "Verb (Akk) | Separable: No | Präteritum: fand | Perfekt: hat gefunden"
+    },
+    {
+        "englishWord": "the shop / store, -s",
+        "englishSentence": "In the fruit shop: 3 pears cost €1.40.",
+        "germanWord": "der Laden, -\u00a8",
+        "germanSentence": "Im Obstladen: 3 Birnen kosten 1,40 €.",
+        "wordType": "Noun (Masculine)"
+    },
+    {
+        "englishWord": "the fruit",
+        "englishSentence": "You want to buy fruit: 3 pears, 2 apples.",
+        "germanWord": "das Obst (Sg.)",
+        "germanSentence": "Sie möchten Obst kaufen: 3 Birnen, 2 Äpfel.",
+        "wordType": "Noun (Neuter)"
+    },
+    {
+        "englishWord": "the vegetables",
+        "englishSentence": "You want to buy vegetables: 1 kilo of leek, 1 pound of spinach.",
+        "germanWord": "das Gemüse, -",
+        "germanSentence": "Sie möchten Gemüse kaufen: 1 Kilo Lauch, 1 Pfund Spinat.",
+        "wordType": "Noun (Neuter)"
+    },
+    {
+        "englishWord": "the bakery, -ies",
+        "englishSentence": "In the bakery: a bread roll costs €0.30.",
+        "germanWord": "die Bäckerei, -en",
+        "germanSentence": "In der Bäckerei: Ein Brötchen kostet 0,30 €.",
+        "wordType": "Noun (Feminine)"
+    },
+    {
+        "englishWord": "the recipe, -s",
+        "englishSentence": "Dumplings: international recipes",
+        "germanWord": "das Rezept, -e",
+        "germanSentence": "Teigtaschen: internationale Rezepte",
+        "wordType": "Noun (Neuter)"
+    },
+    {
+        "englishWord": "for",
+        "englishSentence": "Here is my recipe for 'Swabian Maultaschen'.",
+        "germanWord": "für",
+        "germanSentence": "Hier ist mein Rezept für „Schwäbische Maultaschen“.",
+        "wordType": "Phrase"
+    },
+    {
+        "englishWord": "the water",
+        "englishSentence": "You only need 100 ml of water.",
+        "germanWord": "das Wasser (Sg.)",
+        "germanSentence": "Sie brauchen nur 100 ml Wasser.",
+        "wordType": "Noun (Neuter)"
+    },
+    {
+        "englishWord": "the pepper",
+        "englishSentence": "You need salt and pepper.",
+        "germanWord": "der Pfeffer (Sg.)",
+        "germanSentence": "Sie brauchen Salz und Pfeffer.",
+        "wordType": "Noun (Masculine)"
+    }
+]

@@ -57,60 +57,176 @@ Output:
 ]
 
 **User Input:**
-lernen	Tim lernt auch Deutsch.
-der Park, -s	Tim und Lara lernen im Park.
-die Pause, -n	Tim und Lara haben Pause.
-die Familie, -n	Das ist meine Familie.
-der Vater, =	Das ist Laras Vater.
-die Großeltern (Pl.)	Das sind Laras Großeltern.
-die Mutter, =	Das ist Laras Mutter.
-die Eltern (Pl.)	Das sind Tims Eltern.
-der Bruder,	Das ist Tims Bruder.
-die Geschwister (PI.)	Lara hat Geschwister.
-das Jahr, -e 	Lara ist zwanzig Jahre alt.
-leben	Laras Vater lebt in Poznań.
-in	Laras Vater lebt in Poznań.
-gut	Wie geht's? - Gut, danke.
-super	Wie geht's? - Super.
-na ja	Wie geht's? - Na ja, es geht.
-ach	Wie geht's? - Ach, nicht so gut.
-so	Wie geht's? - Nicht so gut.
-sehr	Wie geht's? - Danke, sehr gut.
-der Enkel, - /	Lili ist Walters Enkelin.
-die Enkelin, -nen	Sofia ist Walters Tochter.
-die Tochter, =	Tobias ist Walters Sohn.
-der Sohn, e	Sofia ist Tobias Schwester.
-die Schwester, -n	Luise ist Lilis Oma.
-die Oma, -s	Walter ist Luises Mann.
-der Mann, er	Walter ist Lilis Opa.
-der Opa, -s dein-	Wer ist das? Dein Bruder?
-mein-	Das ist mein Vater.
-Ihr-	Lili ist Ihre Tochter.
-der Ehemann,er/ die Ehefrau,-en	María ist deine Ehefrau.
-falsch	María ist deine Ehefrau. - Nein, falsch.
-sie (Singular)	Das ist Lara. Sie kommt aus Polen.
-zusammen	Laras Eltern leben nicht zusammen.
-sie (Plural)	Das sind Laras Eltern. Sie sind geschieden.
-geschieden	Sie sind geschieden.
-er	Das ist Tim. Er kommt aus Kanada.
-wohnen	Tim wohnt jetzt in München.
-jetzt 	Tim wohnt jetzt in München.
-ihr	Wer seid ihr? - Wir sind Merima und Anisa.
-wir	Wir kommen aus Bosnien.
-die Zahl, -en	Zahl: 0, 1, 2,...
-wo	Wo wohnen Sie?
-geboren	Wo sind Sie geboren?
-die Nummer, -n  	Wie ist Ihre Telefonnummer?
-verheiratet	Ich bin verheiratet.
-haben	Haben Sie Kinder?
-der Geburtsort, -e	Geburtsort: Madrid
-der Wohnort, -e	Wohnort: 20249 Hamburg
-der Familienstand (Sg.)	Familienstand: geschieden
-ledig	Ich bin ledig.
-verwitwet	Ich bin verwitwet.
-das Alter, -	Alter: 8 und 5
-der Norden (Sg.)	Hamburg ist im Norden.
-der Osten (Sg.)	Leipzig ist im Osten.
-der Süden (Sg.)	München ist im Süden.
-der Westen (Sg.)	Köln ist im Westen.
-die Hauptstadt, e	Berlin ist die Hauptstadt von Deutschland
+
+die Banane, -n
+• die Butter (Sg.)
+•das Ei, -er
+• das Mehl (Sg.)
+• die Milch (Sg.)
+• der Zucker (Sg.)
+• der Pfannkuchen, -
+• die Schokolade (Sg.)
+Lara und Sofia haben Bananen.
+Lara und Sofia haben Butter.
+Sie haben Eier.
+Lara und Sofia haben Mehl.
+Lara und Sofia haben Milch.
+Lara und Sofia haben Zucker.
+Superlecker ... Bananen-pfannkuchen!
+Das ist Schokolade.
+
+brauchen
+kaufen
+• der Hunger (Sg.)
+• der Euro (Sg.)
+• das Fleisch (Sg.)
+• das Bier (Sg.)
+• der Käse (Sg.)
+• das Salz (Sg.)
+• der Tee, -s
+• das Brot, -e
+• der Wein, -e
+• das Mineralwasser
+(5g.)
+• der Reis (Sg.)
+• der Fisch, -e
+ein-kein-
+• der Apfel, =
+• die Orange, -n
+• der Kuchen, -
+• der Kaffee, -s
+• der Saft, =e
+• das Brötchen, -
+• das Würstchen, -
+• die Birne, -n
+• die Tomate, -n
+• die Kartoffel, -n
+• der/• das Joghurt, -s
+• die Zwiebel, -n
+• das Regal, -e
+Sie brauchen Eier.
+Lili kauft Bananen.
+Ich habe Hunger.
+Das macht dann 3 Euro 87.
+Haben wir Fleisch?
+Haben wir Bier?
+Ich habe Käse.
+Haben Sie Salz?
+Haben wir Tee?
+Sind das Brote?
+Brauchen wir Wein?
+Haben wir Mineralwasser?
+Brauchst du Reis?
+Brauchen wir Fisch?
+Das ist ein Schokoladenei.
+Das ist doch kein Ei!
+Das ist kein Apfel.
+Das ist eine Orange.
+Das ist kein Kuchen.
+Das ist kein Kaffee.
+Das ist kein Saft.
+Das ist doch kein Brötchen.
+Ist das ein Würstchen?
+Das ist keine Birne.
+Das ist eine Tomate.
+Nein, das sind keine Kartoffeln.
+Ist das ein Joghurt?
+Sind das Zwiebeln?
+In Regal A sind drei Bananen.
+
+der Preis, -e
+• der Cent (Sg.)
+• der Prospekt, -e
+• das Sonderangebot,
+-e
+Sonderangebot:
+Brötchen 9M$ € 0,39 €
+Apfelkuchen D09 € 1,39 €
+• das Lebensmittel, - wie viel kosten
+• das Kilo(gramm) (kg)
+(Sg.)
+• das Gramm (g) (Sg.)
+• das Pfund (Sg.)
+• der Liter (I), -
+• die Flasche, -n
+• die Dose, -n
+• die Sahne (Sg.)
+• die Wurst, e
+•das Hackfleisch (Sg.)
+• der Verkäufer, - /
+• die Verkäuferin,
+-nen
+• der Kunde, -n/
+• die Kundin, -nen noch
+all-möchten
+finden
+• der Laden, =
+• das Obst (Sg.)
+• das Gemüse, -
+• die Bäckerei, -en
+Preis: 2,45 Euro.
+Das macht 2 Euro und 45 Cent.
+Sehen Sie den Prospekt an.
+Heute im Sonderangebot:
+4 Kiwis für 0,80 €!
+Lebensmittel: Milch, Brot, Eier ...
+Wie viel kostet ein Brot?
+Ein Brot kostet 2,49 €.
+Wie viel kostet ein Kilo Orangen?
+Was kosten 100 Gramm Käse?
+Wie viel kostet ein Pfund Apfel?
+Ein Liter Milch kostet 75 Cent.
+Eine Flasche Saft kostet 1,09 €.
+Eine Dose Tomaten kostet 0.49 €.
+Ein Becher Sahne kostet 39 Cent.
+100 Gramm Wurst kosten 2,29 €.
+Wie viel kostet ein Kilo Hack-
+fleisch?
+Ich bin Verkäufer.
+Ich bin Kunde.
+Ich brauche auch noch Äpfel.
+Das ist alles.
+Ich möchte Birnen.
+Wo finde ich Spinat?
+Im Obstladen: 3 Birnen kosten
+1,40 €.
+Sie möchten Obst kaufen:
+3 Birnen, 2 Apfel.
+Sie möchten Gemüse kaufen:
+1 Kilo Lauch, 1 Pfund Spinat.
+In der Bäckerei: Ein Brötchen
+kostet 0,30 €.
+
+das Rezept, -e
+für
+• das Wasser (Sg.)
+• der Pfeffer (Sg.)
+TiPP
+Lernen Sie immer so:
+• die Schokolade (Sg.)
+• die Milch (Sg.)
+• der Käse (Sg.)
+• der Kuchen,
+• die Kartoffel, -n
+Teigtaschen: internationale
+Rezepte
+Hier ist mein Rezept für
+„Schwäbische Maultaschen".
+Sie brauchen nur 100 ml Wasser.
+Sie brauchen Salz und Pfeffer.
+ein Apfel - Äpfel ein Ei - Eier
+• die Banane, -n
+• die Butter (Sg.)
+• das Ei, -er
+• das Brot, -e
+• der Fisch, -e
+• das Fleisch (Sg.)
+• der Apfel, =
+• die Birne, -n
+• das Brötchen, -
+• die Orange, -n
+• der Saft, "e
+• der/• das Joghurt, -s
+• die Zwiebel, -n
+• die Tomate, -n
+• das Mineralwasser (Sg.)
